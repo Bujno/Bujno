@@ -7,6 +7,8 @@
 - 💡  I work as a **Python Django Developer** and most often use tools such as *DRF, Linux, mySQL, Blockchain, GIT, Jira* and more.
 - 📫 You can reach me by <a href="https://www.linkedin.com/in/kasia-bujnowicz-38a84a201/"> **Linkedin** </a>
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bujno&hide=yacc&layout=compact)
 <!---
 Bujno/Bujno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
