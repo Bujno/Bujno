@@ -31,7 +31,7 @@
 ![Apache](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=apache)&nbsp;
 ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=postgresql)&nbsp;
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bujno&hide=yacc&layout=compact)
 
