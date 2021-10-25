@@ -4,7 +4,7 @@
 
 - 👀 I am interested in **algorithmics**, mainly heuristic and graph. I'm fascinated by the possibilities of **using technology in health care**.
 - 🌱 I’m currently learning **AI alghoritms and OpenCV**
-- 💡  I work as a **Python Django Developer** and most often use tools such as *DRF, Linux, mySQL, Blockchain, GIT, Jira* and more.
+- 💡  I work as a **Python Developer**
 - 📫 You can reach me by <a href="https://www.linkedin.com/in/kasia-bujnowicz-38a84a201/"> **Linkedin** </a>
 
 <hr>
